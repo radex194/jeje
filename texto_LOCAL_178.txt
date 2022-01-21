@@ -1,0 +1,8 @@
+hola, esto es una preuba para git y github\
+\
+
+ewtea es la prueba con nano O
+
+
+
+bueno, ahora estamos creando texto nuevo para añadir un commit nuevo
