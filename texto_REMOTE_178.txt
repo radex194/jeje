@@ -1,7 +1,0 @@
-hola, esto es una preuba para git y github\
-\
-
-ewtea es la prueba con nano O
-
-
-ESTO ES UN CAMBIO PARA HACER MERGE
